@@ -1,0 +1,89 @@
+{
+  "languages": [
+    {
+      "code": "cs",
+      "name": "Čeština",
+      "flag": "🇨🇿"
+    },
+    {
+      "code": "da",
+      "name": "Dansk",
+      "flag": "🇩🇰"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "flag": "🇩🇪"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "flag": "🇪🇸"
+    },
+    {
+      "code": "fi",
+      "name": "Suomi",
+      "flag": "🇫🇮"
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "flag": "🇫🇷"
+    },
+    {
+      "code": "hr",
+      "name": "Hrvatski",
+      "flag": "🇭🇷"
+    },
+    {
+      "code": "hu",
+      "name": "Magyar",
+      "flag": "🇭🇺"
+    },
+    {
+      "code": "it",
+      "name": "Italiano",
+      "flag": "🇮🇹"
+    },
+    {
+      "code": "nb",
+      "name": "Norsk (bokmål)",
+      "flag": "🇳🇴"
+    },
+    {
+      "code": "nl",
+      "name": "Nederlands",
+      "flag": "🇳🇱"
+    },
+    {
+      "code": "pl",
+      "name": "Polski",
+      "flag": "🇵🇱"
+    },
+    {
+      "code": "pt",
+      "name": "Português (Portugal)",
+      "flag": "🇵🇹"
+    },
+    {
+      "code": "sk",
+      "name": "Slovenčina",
+      "flag": "🇸🇰"
+    },
+    {
+      "code": "sl",
+      "name": "Slovenščina",
+      "flag": "🇸🇮"
+    },
+    {
+      "code": "sv",
+      "name": "Svenska",
+      "flag": "🇸🇪"
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe",
+      "flag": "🇹🇷"
+    }
+  ]
+}
